@@ -74,3 +74,4 @@ time.sleep(3)
 
 logout = browser.find_element(By.ID, 'logout_sidebar_link')
 logout.click()
+
